@@ -1,0 +1,20 @@
+{
+  "name": "intro-to-javascript",
+  "version": "1.0.0",
+  "description": "Intro to JavaScript course.",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominicCrisafi/intro-to-javascript.git"
+  },
+  "author": "Dominic Crisafi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DominicCrisafi/intro-to-javascript/issues"
+  },
+  "homepage": "https://github.com/DominicCrisafi/intro-to-javascript#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
